@@ -10,10 +10,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/southwind9801/myspringclouddemo.git
+          uri: https://github.com/Jmiin/myspringclouddemo-master.git
           searchPaths: config
-          username: root
-          password: root
+          username: Jmiin
+          password: jmin1906169605
       label: master
   rabbitmq:
     host: localhost
